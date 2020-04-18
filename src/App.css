@@ -1,0 +1,57 @@
+
+.body{
+  padding: 0 3rem;
+}
+
+.heading{
+  margin: 3rem 0 3rem 0;
+}
+
+.heading h1{
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+
+.heading h1:nth-child(2){
+  font-weight: bolder;
+}
+
+.heading p{
+  font-weight: lighter;
+  margin: 1.5rem auto;
+  width: 30rem;
+}
+
+.aside{
+  margin-top: 10%;
+}
+
+.card-box {
+  height: 16rem;
+  margin: 2rem 2rem;
+  border-radius: .5rem;
+  text-align: left;
+  border-top: 5px solid #00E0D4;
+}
+
+.card-box h5, p{
+  padding-left: 1rem;
+}
+
+.card-box p{
+  font-weight: lighter;
+}
+
+.card-icon{
+  text-align: right;
+  margin-top: 3rem;
+  padding: 20px;
+}
+
+.card-title{
+  margin-top: 1rem;
+}
+
+.card-box h5 {
+  font-size: 1.5rem;
+}
