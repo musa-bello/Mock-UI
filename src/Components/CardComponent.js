@@ -6,7 +6,7 @@ function CardComponent(props){
             <h5 className ="card-title">{props.name}</h5>
             <p className ="card-text">{props.text}</p>
             <div className='card-icon'>
-                <img src={props.src} />
+                <img src={props.src} alt="" />
             </div>
         </div>
     )

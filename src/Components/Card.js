@@ -1,6 +1,6 @@
 import React from 'react'
 import CardComponent from './CardComponent'
-import supervisor from './SVG/supervisor.svg'
+import supervisor from '../SVG/supervisor.svg'
 import karma from  '../SVG/karma.svg'
 import teambuilder from  '../SVG/teambuilder.svg'
 import calculator from  '../SVG/calculator.svg'
