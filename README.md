@@ -1,7 +1,8 @@
 # Mock-UI
 This project was aimed at recreating a design mock up using React and Bootstrap.
 
-Live test URL.<br />
+Live test URL: https://mock-ui.vercel.app/
+
 
 
 <p align="center">
